@@ -2,4 +2,4 @@
 
 I'm glad you are here. I plan to talk about ...
 
-<b>Sample blog text</b>
+<b>Yar Pirate Ipsumth</b>
